@@ -24,6 +24,7 @@ Ensure the following are installed:
 - Maven 3.9+
 - Google Chrome (latest)
 - Git
+- Appium
 
 
 
