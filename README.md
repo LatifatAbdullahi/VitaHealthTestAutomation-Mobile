@@ -5,7 +5,7 @@ This repository contains an automated test framework built to validate the **Vit
 ---
 
 ## 🧱 Tech Stack
-
+- Appium
 - Java 23
 - Selenium WebDriver
 - JUnit
