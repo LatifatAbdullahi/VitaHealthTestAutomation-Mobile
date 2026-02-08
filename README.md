@@ -68,6 +68,6 @@ A single Maven command runs the suite: the same one you’d use locally with ret
 ---
 
 ## 🧪 Test Coverage
-Login
-Open Feed
-Items rendering
+- Login
+- Open Feed
+- Items rendering
